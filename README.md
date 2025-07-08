@@ -11,3 +11,9 @@ YiSiMeans Vue frontend Project
 - CSS
 - JaveScript
 - Element+
+
+功能
+- 使用者登入/登出
+- 部門及員工管理-增/刪/改/查
+- 班級及學生管理-增/刪/改/查
+- 員工/學生/日誌-數據統計
