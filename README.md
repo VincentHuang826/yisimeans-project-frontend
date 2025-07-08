@@ -4,7 +4,7 @@ YiSiMeans Vue frontend Project
 
 技術棧
 - Vue 3
-- Ajx
+- Ajax
 - Vue Router
 - Axios
 - HTML
